@@ -7,8 +7,8 @@ Data cleaning is the process of fixing, or removing incorrect, corrupted, incorr
 Data cleaning is a very important step in any DS project as it determines the perfomance of your algorithms.
 
 # Steps
-Remove duplicates, incomplete cases or irrelevant observations
-Fix structural errors
+* Remove duplicates, incomplete cases or irrelevant observations
+* Fix structural errors
 Filter unwanted outliers(Note; Not all outliers are incorrect)
 Handle missing data
 Remove oversample
