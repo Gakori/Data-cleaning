@@ -9,11 +9,11 @@ Data cleaning is a very important step in any DS project as it determines the pe
 # Steps
 * Remove duplicates, incomplete cases or irrelevant observations
 * Fix structural errors
-Filter unwanted outliers(Note; Not all outliers are incorrect)
-Handle missing data
-Remove oversample
-Ensure data consistency
-Perform final quality assurance checks
+* Filter unwanted outliers(Note; Not all outliers are incorrect)
+* Handle missing data
+* Remove oversample
+* Ensure data consistency
+* Perform final quality assurance checks
 
 # References
 https://www.geopoll.com/blog/data-cleaning-steps-to-clean-data/
